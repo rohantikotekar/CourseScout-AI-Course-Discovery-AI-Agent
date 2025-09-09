@@ -17,12 +17,6 @@ CourseScout AI is a **next-generation course discovery platform** that eliminate
 
 ---
 
-## 🎥 Project Demo
-
-[Project Demo Video Placeholder]
-
----
-
 ## 🏗️ Architecture
 
 The CourseScout platform operates as an intelligent web agent system with three core components:
