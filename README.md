@@ -230,15 +230,8 @@ Return formatted results + visual preview
 
 ## 🧑‍💻 Community & Support
 
-📧 **Contact**: [your-email@domain.com]
-🔗 **GitHub**: [github.com/yourusername/coursescout-ai]
-📖 **Documentation**: [coursescout-docs.github.io]
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+📧 **Contact**: [rohantikotekar@gmail.com]
+🔗 **GitHub**: [github.com/rohantikotekar]
 
 ---
 
